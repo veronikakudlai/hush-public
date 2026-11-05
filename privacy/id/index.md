@@ -1,3 +1,10 @@
+---
+layout: null
+title: "Kebijakan Privasi HUSH"
+lang: id
+permalink: /privacy/id/
+---
+
 # Kebijakan Privasi HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Ελληνικά](../el/) · [Deutsch](../de/)
