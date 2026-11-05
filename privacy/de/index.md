@@ -1,9 +1,16 @@
+---
+layout: null
+title: "HUSH Datenschutzerklärung"
+lang: de
+permalink: /privacy/de/
+---
+
 # Datenschutzerklärung für HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/)
 
 **Gültig ab:** 30. Oktober 2026  
-**Kontakt für Datenschutzanfragen:** hush.ios.support@gmail.com
+**Kontakt für Datenschutzanfragen:** privacy_policy.ios@proton.me
 
 ### 1. Allgemeines
 
@@ -84,4 +91,6 @@ Soweit gesetzlich oder durch Plattformvorgaben erforderlich, informieren wir in 
 
 Bei Fragen zu dieser Datenschutzerklärung oder zu HUSH können Sie den Entwickler kontaktieren:
 
-**Kontakt:** hush.ios.support@gmail.com.
+**Kontakt:** privacy_policy.ios@proton.me.
+
+**Technischer Support:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Meldungen sind öffentlich: Bitte keine Gesundheitsdaten oder persönlichen Angaben veröffentlichen. Vertrauliche Anfragen bitte per E-Mail stellen.

@@ -1,9 +1,16 @@
+---
+layout: null
+title: "นโยบายความเป็นส่วนตัวของ HUSH"
+lang: th
+permalink: /privacy/th/
+---
+
 # นโยบายความเป็นส่วนตัวของ HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **วันที่มีผลบังคับใช้:** 30 ตุลาคม ค.ศ. 2026  
-**ติดต่อเกี่ยวกับความเป็นส่วนตัว:** hush.ios.support@gmail.com
+**ติดต่อเกี่ยวกับความเป็นส่วนตัว:** privacy_policy.ios@proton.me
 
 ### 1. บทนำ
 
@@ -84,4 +91,6 @@ HUSH มีไว้สำหรับบันทึกข้อมูลด้
 
 หากมีคำถามเกี่ยวกับนโยบายฉบับนี้หรือ HUSH โปรดติดต่อผู้พัฒนา:
 
-**อีเมล:** hush.ios.support@gmail.com.
+**อีเมล:** privacy_policy.ios@proton.me.
+
+**ฝ่ายสนับสนุน:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). รายงานบน GitHub เป็นสาธารณะ โปรดอย่าโพสต์ข้อมูลสุขภาพหรือข้อมูลส่วนตัว หากต้องการติดต่อเป็นการส่วนตัว ให้ใช้อีเมลข้างต้น.

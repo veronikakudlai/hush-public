@@ -1,9 +1,16 @@
+---
+layout: null
+title: "Política de privacidad de HUSH"
+lang: es
+permalink: /privacy/es/
+---
+
 # Política de privacidad de HUSH
 
 [Русский](../) · [English](../en/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **Fecha de entrada en vigor:** 30 de octubre de 2026  
-**Contacto para consultas sobre privacidad:** hush.ios.support@gmail.com
+**Contacto para consultas sobre privacidad:** privacy_policy.ios@proton.me
 
 ### 1. Introducción
 
@@ -84,4 +91,6 @@ Cuando lo exijan la legislación o las normas de la plataforma, notificaremos ad
 
 Si tienes preguntas sobre esta Política o HUSH, puedes contactar con el desarrollador:
 
-**Contacto:** hush.ios.support@gmail.com.
+**Contacto:** privacy_policy.ios@proton.me.
+
+**Asistencia técnica:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Las incidencias son públicas: no publiques datos de salud ni información personal. Para consultas privadas, utiliza el correo indicado.

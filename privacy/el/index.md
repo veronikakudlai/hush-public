@@ -1,9 +1,16 @@
+---
+layout: null
+title: "Πολιτική απορρήτου HUSH"
+lang: el
+permalink: /privacy/el/
+---
+
 # Πολιτική Απορρήτου του HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Deutsch](../de/)
 
 **Ημερομηνία έναρξης ισχύος:** 30 Οκτωβρίου 2026  
-**Επικοινωνία για θέματα απορρήτου:** hush.ios.support@gmail.com
+**Επικοινωνία για θέματα απορρήτου:** privacy_policy.ios@proton.me
 
 ### 1. Γενικές πληροφορίες
 
@@ -84,4 +91,6 @@
 
 Για ερωτήσεις σχετικά με αυτή την Πολιτική ή το HUSH, επικοινωνήστε με τον δημιουργό:
 
-**Επικοινωνία:** hush.ios.support@gmail.com.
+**Επικοινωνία:** privacy_policy.ios@proton.me.
+
+**Τεχνική υποστήριξη:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Οι αναφορές είναι δημόσιες: μην δημοσιεύετε δεδομένα υγείας ή προσωπικές πληροφορίες. Για εμπιστευτικά αιτήματα χρησιμοποιήστε το email.
