@@ -4,14 +4,16 @@ Official public privacy policies and support information for the HUSH iOS applic
 
 ## Privacy policies
 
-- [Русский](privacy/)
-- [English](privacy/en/)
-- [Español](privacy/es/)
-- [Italiano](privacy/it/)
-- [ไทย](privacy/th/)
-- [Bahasa Indonesia](privacy/id/)
-- [Ελληνικά](privacy/el/)
-- [Deutsch](privacy/de/)
+Choose a language to read the complete policy in GitHub. The separate web links open the corresponding GitHub Pages edition.
+
+- [Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/)
+- [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/en/)
+- [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/es/)
+- [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/it/)
+- [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/th/)
+- [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/id/)
+- [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/el/)
+- [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/de/)
 
 ## Contact
 

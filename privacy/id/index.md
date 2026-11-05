@@ -7,7 +7,7 @@ permalink: /privacy/id/
 
 # Kebijakan Privasi HUSH
 
-[Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Ελληνικά](../el/) · [Deutsch](../de/)
+[Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md)
 
 **Tanggal berlaku:** 30 Oktober 2026  
 **Kontak terkait privasi:** privacy_policy.ios@proton.me
