@@ -3,7 +3,7 @@
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **Tanggal berlaku:** 30 Oktober 2026  
-**Kontak terkait privasi:** hush.ios.support@gmail.com
+**Kontak terkait privasi:** privacy_policy.ios@proton.me
 
 ### 1. Pendahuluan
 
@@ -84,4 +84,6 @@ Jika diwajibkan oleh hukum atau aturan platform, kami akan memberikan pemberitah
 
 Untuk pertanyaan mengenai Kebijakan ini atau HUSH, silakan hubungi pengembang:
 
-**Kontak:** hush.ios.support@gmail.com.
+**Kontak:** privacy_policy.ios@proton.me.
+
+**Dukungan teknis:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Laporan bersifat publik: jangan kirim data kesehatan atau informasi pribadi. Untuk pertanyaan rahasia, gunakan email di atas.
