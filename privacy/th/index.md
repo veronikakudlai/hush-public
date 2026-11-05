@@ -1,3 +1,10 @@
+---
+layout: null
+title: "นโยบายความเป็นส่วนตัวของ HUSH"
+lang: th
+permalink: /privacy/th/
+---
+
 # นโยบายความเป็นส่วนตัวของ HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
