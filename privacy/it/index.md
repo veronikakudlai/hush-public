@@ -3,7 +3,7 @@
 [Русский](../) · [English](../en/) · [Español](../es/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **Data di entrata in vigore:** 30 ottobre 2026  
-**Contatto per questioni relative alla privacy:** hush.ios.support@gmail.com
+**Contatto per questioni relative alla privacy:** privacy_policy.ios@proton.me
 
 ### 1. Informazioni generali
 
@@ -84,4 +84,6 @@ Quando richiesto dalla legge o dalle regole della piattaforma, forniremo un'adeg
 
 Per domande su questa Informativa o su HUSH, puoi contattare lo sviluppatore:
 
-**Contatto:** hush.ios.support@gmail.com.
+**Contatto:** privacy_policy.ios@proton.me.
+
+**Assistenza tecnica:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Le segnalazioni sono pubbliche: non inserire dati sanitari o personali. Per richieste riservate usa l'indirizzo email indicato.
