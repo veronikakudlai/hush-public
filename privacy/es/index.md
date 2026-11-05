@@ -1,3 +1,10 @@
+---
+layout: null
+title: "Política de privacidad de HUSH"
+lang: es
+permalink: /privacy/es/
+---
+
 # Política de privacidad de HUSH
 
 [Русский](../) · [English](../en/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
