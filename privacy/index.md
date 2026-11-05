@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Политика конфиденциальности HUSH
 
-[English](en/) · [Español](es/) · [Italiano](it/) · [ไทย](th/) · [Bahasa Indonesia](id/) · [Ελληνικά](el/) · [Deutsch](de/)
+[English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md)
 
 **Дата вступления в силу:** 30 октября 2026 года  
 **Контакт для обращений:** privacy_policy.ios@proton.me
