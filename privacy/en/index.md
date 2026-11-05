@@ -3,7 +3,7 @@
 [Русский](../) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **Effective date:** 30 October 2026  
-**Privacy contact:** hush.ios.support@gmail.com
+**Privacy contact:** privacy_policy.ios@proton.me
 
 ### 1. Introduction
 
@@ -84,4 +84,6 @@ Where required by law or platform rules, we will provide appropriate notice of m
 
 For questions about this Policy or HUSH, please contact the developer:
 
-**Contact:** hush.ios.support@gmail.com.
+**Contact:** privacy_policy.ios@proton.me.
+
+**Technical support:** [GitHub Issues](https://github.com/veronikakudlai/hush-public/issues). Issues are public: do not post health records, personal notes or other private information. Use the email above for confidential inquiries.
