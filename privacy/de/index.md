@@ -1,3 +1,10 @@
+---
+layout: null
+title: "HUSH Datenschutzerklärung"
+lang: de
+permalink: /privacy/de/
+---
+
 # Datenschutzerklärung für HUSH
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/)
