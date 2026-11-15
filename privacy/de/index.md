@@ -7,7 +7,7 @@ permalink: /privacy/de/
 
 # Datenschutzerklärung für HUSH
 
-[Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md)
+[Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Українська](https://github.com/veronikakudlai/hush-public/blob/main/privacy/uk/index.md)
 
 **Gültig ab:** 30. Oktober 2026  
 **Kontakt für Datenschutzanfragen:** privacy_policy.ios@proton.me
