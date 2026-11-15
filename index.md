@@ -16,6 +16,7 @@ For the rendered Markdown documents directly on GitHub, see [the repository READ
 
 ## Contact
 
+
 - [Support — GitHub Issues](https://github.com/veronikakudlai/hush-public/issues)
 - [Private privacy inquiries](mailto:privacy_policy.ios@proton.me)
 
