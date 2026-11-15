@@ -7,8 +7,6 @@ permalink: /privacy/th/
 
 # นโยบายความเป็นส่วนตัวของ HUSH
 
-[Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md) · [Українська](https://github.com/veronikakudlai/hush-public/blob/main/privacy/uk/index.md)
-
 **วันที่มีผลบังคับใช้:** 30 ตุลาคม ค.ศ. 2026  
 **ติดต่อเกี่ยวกับความเป็นส่วนตัว:** privacy_policy.ios@proton.me
 
