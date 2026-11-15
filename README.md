@@ -14,6 +14,7 @@ Choose a language to read the complete policy in GitHub. The separate web links 
 - [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/id/)
 - [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/el/)
 - [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/de/)
+- [Українська](https://github.com/veronikakudlai/hush-public/blob/main/privacy/uk/index.md) · [Web page](https://veronikakudlai.github.io/hush-public/privacy/uk/)
 
 ## Contact
 
