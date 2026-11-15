@@ -9,7 +9,7 @@ permalink: /privacy/uk/
 
 [Русский](https://github.com/veronikakudlai/hush-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/hush-public/blob/main/privacy/en/index.md) · [Español](https://github.com/veronikakudlai/hush-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/hush-public/blob/main/privacy/it/index.md) · [ไทย](https://github.com/veronikakudlai/hush-public/blob/main/privacy/th/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/hush-public/blob/main/privacy/id/index.md) · [Ελληνικά](https://github.com/veronikakudlai/hush-public/blob/main/privacy/el/index.md) · [Deutsch](https://github.com/veronikakudlai/hush-public/blob/main/privacy/de/index.md)
 
-**Дата набрання чинності:** 30 жовтня 2026 року  
+**Дата набрання чинності:** буде визначена після погодження української редакції та до її публікації  
 **Контакт із питань конфіденційності:** privacy_policy.ios@proton.me
 
 ### 1. Загальні положення
