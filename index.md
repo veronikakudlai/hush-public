@@ -10,7 +10,7 @@ permalink: /
 
 ## Privacy policy
 
-[Русский](https://veronikakudlai.github.io/hush-public/privacy/) · [English](https://veronikakudlai.github.io/hush-public/privacy/en/) · [Español](https://veronikakudlai.github.io/hush-public/privacy/es/) · [Italiano](https://veronikakudlai.github.io/hush-public/privacy/it/) · [ไทย](https://veronikakudlai.github.io/hush-public/privacy/th/) · [Bahasa Indonesia](https://veronikakudlai.github.io/hush-public/privacy/id/) · [Ελληνικά](https://veronikakudlai.github.io/hush-public/privacy/el/) · [Deutsch](https://veronikakudlai.github.io/hush-public/privacy/de/) · [Українська](https://veronikakudlai.github.io/hush-public/privacy/uk/)
+[Русский](https://veronikakudlai.github.io/hush-public/privacy/) · [English](https://veronikakudlai.github.io/hush-public/privacy/en/) · [Español](https://veronikakudlai.github.io/hush-public/privacy/es/) · [Italiano](https://veronikakudlai.github.io/hush-public/privacy/it/) · [ไทย](https://veronikakudlai.github.io/hush-public/privacy/th/) · [Bahasa Indonesia](https://veronikakudlai.github.io/hush-public/privacy/id/) · [Ελληνικά](https://veronikakudlai.github.io/hush-public/privacy/el/) · [Deutsch](https://veronikakudlai.github.io/hush-public/privacy/de/) · [Українська](https://veronikakudlai.github.io/hush-public/privacy/uk/) · [Türkçe](https://veronikakudlai.github.io/hush-public/privacy/tr/)
 
 For the rendered Markdown documents directly on GitHub, see [the repository README](https://github.com/veronikakudlai/hush-public#privacy-policies).
 
